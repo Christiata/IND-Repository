@@ -1,3 +1,2 @@
-# IND-Repository
-    
-## UiA personal repository
+# IND-Repository for UiA
+ 
